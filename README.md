@@ -1,4 +1,4 @@
-# EDA-of-Indian Startup Funding
+# EDA of Indian Startup Funding
 
 This notebook explores the Indian Startup Funding and tries to answer questions like
 - Do cities play a major role in funding?
